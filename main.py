@@ -12,3 +12,5 @@ def division(a,b):
 
 def fac(a):
     return fac(a-1)
+def new(a,b):
+    return (a*b-a)
