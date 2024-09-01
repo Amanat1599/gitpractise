@@ -1,8 +1,8 @@
 def add(a,b,c):
     return a+b+c
 
-def sun(a,b,q):
-    return a-b-q
+def sun(a,b,e):
+    return a-b-e
 
 def multiplication(a,b):
     return a*b
