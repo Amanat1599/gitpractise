@@ -15,3 +15,5 @@ def fac(a):
     
 def new(a,b):
     return (a*b-a)
+def persentage(a):
+    return a*0.1
